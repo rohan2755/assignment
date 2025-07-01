@@ -64,7 +64,7 @@ const MainContent = () => {
 
 
         <div className='lg:w-1/3 flex justify-center lg:justify-end'>
-          <button className="bg-[#09a7ce] hover:bg-[#0891a5] text-white px-6 lg:px-8 py-3 rounded-full flex items-center space-x-2 transition-colors duration-200 group">
+          <button className="bg-[#09a7ce] text-white px-6 lg:px-8 py-3 rounded-full flex items-center space-x-2 transition-colors duration-200 group">
             <span className="text-sm lg:text-base">BEGIN</span>
             <svg 
               className="w-4 h-4 lg:w-5 lg:h-5 transform group-hover:translate-x-1 transition-transform duration-200" 

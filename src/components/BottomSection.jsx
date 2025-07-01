@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import pic4 from '../assets/pic4.jpeg'
 
 const BottomSection = () => {
-  const [expandedService, setExpandedService] = useState('flutter');
+  const [expandedService, setExpandedService] = useState('expanded');
 
   const services = [
     {

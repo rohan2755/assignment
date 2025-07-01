@@ -52,10 +52,6 @@ const Navbar = () => {
                 src={pic1}
                 alt="Workspace"
                 className="w-full h-32 rounded object-cover"
-                onError={(e) => {
-                  e.target.src =
-                    "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDIwMCAxMjgiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyMDAiIGhlaWdodD0iMTI4IiBmaWxsPSIjMzc0MTUxIi8+CjxwYXRoIGQ9Ik04NSA1NEg5NVY2NEg4NVY1NFoiIGZpbGw9IiM2QjczODAiLz4KPC9zdmc+";
-                }}
               />
             </div>
             <p className="text-xs text-gray-400">

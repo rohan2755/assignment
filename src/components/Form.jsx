@@ -27,19 +27,19 @@ const Form = () => {
         <div className="flex justify-between items-center max-w-7xl mx-auto">
 
           <div className="flex space-x-12">
-            <a href="#" className="text-gray-300 hover:text-white transition-colors duration-200">
+            <a href="#" className="text-gray-300 transition-colors duration-200">
               Events
             </a>
-            <a href="#" className="text-gray-300 hover:text-white transition-colors duration-200">
+            <a href="#" className="text-gray-300 transition-colors duration-200">
               Gen AI
             </a>
-            <a href="#" className="text-gray-300 hover:text-white transition-colors duration-200">
+            <a href="#" className="text-gray-300 transition-colors duration-200">
               Careers
             </a>
-            <a href="#" className="text-gray-300 hover:text-white transition-colors duration-200">
+            <a href="#" className="text-gray-300 transition-colors duration-200">
               Case study
             </a>
-            <a href="#" className="text-gray-300 hover:text-white transition-colors duration-200">
+            <a href="#" className="text-gray-300 transition-colors duration-200">
               SME Talks
             </a>
           </div>
@@ -108,7 +108,7 @@ const Form = () => {
 
               <div className="pt-8 flex justify-end">
                 <button
-                  className="bg-[#0d4e5d] border-1 text-sm border-[#09a7ce] disabled:opacity-50 disabled:cursor-not-allowed text-white px-6 py-2 rounded-full font-medium transition-all duration-200 transform hover:scale-105"
+                  className="bg-[#0d4e5d] border-1 text-sm border-[#09a7ce] text-white px-6 py-2 rounded-full font-medium transition-all duration-200 transform hover:scale-105"
                 >
                   SUBMIT
                 </button>
@@ -121,16 +121,16 @@ const Form = () => {
 
       <footer className="px-8 py-8">
         <div className="flex flex-wrap gap-8 max-w-7xl mx-auto">
-          <a href="#" className="text-gray-300 hover:text-white transition-colors duration-200">
+          <a href="#" className="text-gray-300 transition-colors duration-200">
             About
           </a>
-          <a href="#" className="text-gray-300 hover:text-white transition-colors duration-200">
+          <a href="#" className="text-gray-300  transition-colors duration-200">
             Insights
           </a>
-          <a href="#" className="text-gray-300 hover:text-white transition-colors duration-200">
+          <a href="#" className="text-gray-300 transition-colors duration-200">
             Community
           </a>
-          <a href="#" className="text-gray-300 hover:text-white transition-colors duration-200">
+          <a href="#" className="text-gray-300 transition-colors duration-200">
             Privacy & Policies
           </a>
         </div>
